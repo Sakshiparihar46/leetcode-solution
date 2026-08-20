@@ -14,14 +14,13 @@ class Solution {
             }
         }
 
-        int ans[]=new int [nums.length];
         int indx=0;
         for(int x:arr1){
-            ans[indx++]=x;
+            nums[indx++]=x;
         }
         for(int x:arr2){
-            ans[indx++]=x;
+            nums[indx++]=x;
         }
-        return ans;
+        return nums;
     }
 }
