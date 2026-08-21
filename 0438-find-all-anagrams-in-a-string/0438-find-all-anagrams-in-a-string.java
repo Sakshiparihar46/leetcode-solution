@@ -11,7 +11,8 @@ class Solution {
 
        HashMap<Character,Integer> map1=new HashMap<>();
        for(int i=0;i<p.length();i++){
-        map1.put(s.charAt(i),map1.getOrDefault(s.charAt(i),0)+1);
+        char ch=s.charAt(i);
+        map1.put(ch,map1.getOrDefault(ch,0)+1);
        }
        if(map.equals(map1)){
         ans.add(0);
@@ -19,11 +20,12 @@ class Solution {
        int j=p.length();
        int i=0;
        while(j<s.length()){
-        if(map1.get(s.charAt(i))==1){
-            map1.remove(s.charAt(i));
+        char ch=s.charAt(i);
+        if(map1.get(ch)==1){
+            map1.remove(ch);
             i++;
         }else{
-            map1.put(s.charAt(i),map1.get(s.charAt(i))-1);
+            map1.put(ch,map1.get(ch)-1);
             i++;
         }
         map1.put(s.charAt(j),map1.getOrDefault(s.charAt(j),0)+1);
