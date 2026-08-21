@@ -22,5 +22,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
+## String
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
