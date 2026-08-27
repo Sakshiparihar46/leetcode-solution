@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
@@ -52,5 +53,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
