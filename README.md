@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0643-maximum-average-subarray-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0704-binary-search) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
