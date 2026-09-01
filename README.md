@@ -18,6 +18,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -64,6 +65,7 @@
 | [0367-valid-perfect-square](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
