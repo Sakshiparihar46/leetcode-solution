@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0704-binary-search) |
 ## Dynamic Programming
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
