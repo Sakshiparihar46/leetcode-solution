@@ -21,6 +21,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0009-palindrome-number](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
