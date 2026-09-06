@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0643-maximum-average-subarray-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0704-binary-search) |
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
