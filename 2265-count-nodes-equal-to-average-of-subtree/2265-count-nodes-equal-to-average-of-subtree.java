@@ -22,7 +22,7 @@ class Solution {
             this.count=count;
         }
     }
-    public int ans=0;
+    private int ans=0;
     public info dfs(TreeNode root){
         if(root==null){
             return new info(0,0); 
@@ -30,14 +30,14 @@ class Solution {
         info left=dfs(root.left);
         info right=dfs(root.right);
 
-        int Sum=left.sum+right.sum+root.val;
+        int sum=left.sum+right.sum+root.val;
 
-        int Count=left.count+right.count+1; 
-        int average=Sum/Count;  
+        int count=left.count+right.count+1; 
+        int average=sum/count;  
         if(average==root.val){
             ans++;
         }
-        return new info(Sum,Count);
+        return new info(sum,count);
         }
     public int averageOfSubtree(TreeNode root) {
         dfs(root);
