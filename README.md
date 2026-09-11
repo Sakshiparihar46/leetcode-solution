@@ -26,6 +26,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
@@ -47,6 +48,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -124,4 +126,12 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
