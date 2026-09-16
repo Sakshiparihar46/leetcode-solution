@@ -105,6 +105,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Interactive
 |  |
@@ -142,4 +143,20 @@
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1552-magnetic-force-between-two-balls) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
