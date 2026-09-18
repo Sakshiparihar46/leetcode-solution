@@ -21,6 +21,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -44,6 +45,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -55,6 +57,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
