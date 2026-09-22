@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Binary Search
