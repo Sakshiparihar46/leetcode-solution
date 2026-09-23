@@ -22,6 +22,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -86,6 +87,7 @@
 | [0283-move-zeroes](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
@@ -160,6 +163,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
@@ -177,4 +181,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
