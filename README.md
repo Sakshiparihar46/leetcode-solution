@@ -25,6 +25,7 @@
 | [0875-koko-eating-bananas](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -73,6 +74,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
