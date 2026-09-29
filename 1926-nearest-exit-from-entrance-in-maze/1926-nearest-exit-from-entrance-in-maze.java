@@ -1,8 +1,7 @@
 class Solution {
     public int nearestExit(char[][] maze, int[] entrance) {
         Queue<int[]> q=new LinkedList<>();
-        int dist=0;
-        q.add(new int[]{entrance[0],entrance[1],dist});
+        q.add(new int[]{entrance[0],entrance[1],0});
         int dr[]={-1,1,0,0};
         int dc[]={0,0,-1,1};
         boolean vis[][]=new boolean[maze.length][maze[0].length];
