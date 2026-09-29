@@ -37,6 +37,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1552-magnetic-force-between-two-balls) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -202,11 +203,13 @@
 | ------- |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
