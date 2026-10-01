@@ -73,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -124,6 +125,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
