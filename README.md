@@ -17,6 +17,7 @@
 | [0041-first-missing-positive](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -201,12 +203,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
