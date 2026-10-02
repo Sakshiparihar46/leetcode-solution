@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -210,6 +212,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -232,4 +235,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0022-generate-parentheses) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
