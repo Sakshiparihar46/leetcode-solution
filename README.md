@@ -5,6 +5,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -120,6 +122,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1162-as-far-from-land-as-possible) |
@@ -228,4 +231,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
