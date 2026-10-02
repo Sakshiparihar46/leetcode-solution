@@ -31,6 +31,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -208,6 +210,7 @@
 | [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
@@ -215,6 +218,7 @@
 | [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Longest Increasing Subsequence
 |  |
