@@ -84,6 +84,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -136,6 +137,7 @@
 | [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0856-score-of-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
@@ -238,6 +241,7 @@
 | [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bidirectional Search
 |  |
 | ------- |
