@@ -7,7 +7,7 @@ class Solution {
                 open++;
             }else if(open>0 && s.charAt(i)==')'){
                 open--;
-            }else if(open==0 && s.charAt(i)==')'){
+            }else{
                 ans++;
             }
         }
