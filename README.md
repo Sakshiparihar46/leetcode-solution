@@ -35,6 +35,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## Tree
 |  |
