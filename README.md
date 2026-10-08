@@ -88,6 +88,7 @@
 | [0856-score-of-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
@@ -140,6 +141,7 @@
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0856-score-of-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [0022-generate-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 ## Bidirectional Search
 |  |
 | ------- |
