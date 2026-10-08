@@ -18,6 +18,7 @@
 | [0041-first-missing-positive](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0704-binary-search) |
@@ -168,6 +169,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0127-word-ladder) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
