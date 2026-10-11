@@ -267,4 +267,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
