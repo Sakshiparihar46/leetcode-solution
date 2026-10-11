@@ -46,6 +46,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1552-magnetic-force-between-two-balls) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -197,6 +198,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
