@@ -32,6 +32,7 @@
 | [0881-boats-to-save-people](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -80,6 +81,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -178,6 +180,7 @@
 | [0525-contiguous-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
