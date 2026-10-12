@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
@@ -77,6 +78,7 @@
 | [0127-word-ladder](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -104,6 +106,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0367-valid-perfect-square) |
+| [0523-continuous-subarray-sum](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -177,6 +180,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0724-find-pivot-index) |
@@ -275,4 +279,8 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0177-nth-highest-salary) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
