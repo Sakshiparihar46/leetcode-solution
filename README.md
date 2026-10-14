@@ -28,6 +28,7 @@
 | [0704-binary-search](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0875-koko-eating-bananas) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
