@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
@@ -81,6 +82,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
