@@ -38,6 +38,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -255,6 +256,7 @@
 | [0127-word-ladder](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0542-01-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
