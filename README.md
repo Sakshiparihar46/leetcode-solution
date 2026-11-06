@@ -34,6 +34,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sakshiparihar46/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
